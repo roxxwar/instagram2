@@ -1,0 +1,20 @@
+# REPOSITORIOS DE MIDIA DO INSTAGRAM (@gabguerraofc)
+#
+# Este arquivo e o lugar unico onde ficam os repositorios que as tarefas
+# agendadas do Instagram usam para hospedar video e imagem antes de postar
+# (projetos "Instagram - Pro Reels" e "Instagram - Profissional").
+#
+# Como funciona:
+# - Um repositorio por linha, no formato dono/nome. Linhas com # sao ignoradas.
+# - A ordem das linhas e a ordem de uso: a tarefa usa o primeiro que aceitar
+#   a gravacao e passa para o proximo se um estiver cheio ou recusar.
+# - Para incluir um repositorio novo: acrescente uma linha no topo da lista.
+# - Para parar de usar um repositorio: apague a linha ou ponha # na frente.
+# - So valem repositorios publicos da conta roxxwar.
+#
+# Alem desta lista, as tarefas tambem procuram sozinhas repositorios novos da
+# conta roxxwar cujo nome comece com "instagram" (exemplo: instagram3).
+# Um repositorio novo com esse nome e usado mesmo antes de entrar aqui.
+
+roxxwar/instagram2
+roxxwar/instagram-profissional
