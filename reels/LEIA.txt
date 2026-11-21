@@ -1,0 +1,3 @@
+Pasta de midia do projeto Instagram - Pro Reels (@gabguerraofc).
+Cada reel fica em reels/AAAA-MM-DD/<pasta>.mp4 e <pasta>-capa.jpg.
+Gravado pelas tarefas agendadas de postagem. Nao apague a pasta.
