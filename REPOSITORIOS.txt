@@ -14,7 +14,9 @@
 #
 # Alem desta lista, as tarefas tambem procuram sozinhas repositorios novos da
 # conta roxxwar cujo nome comece com "instagram" (exemplo: instagram3).
-# Um repositorio novo com esse nome e usado mesmo antes de entrar aqui.
+# Um repositorio novo com esse nome entra como reserva, depois dos desta
+# lista, mesmo antes de ser escrito aqui. Para ele virar o principal,
+# escreva o nome dele no topo da lista.
 
 roxxwar/instagram2
 roxxwar/instagram-profissional
