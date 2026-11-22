@@ -18,5 +18,7 @@
 # lista, mesmo antes de ser escrito aqui. Para ele virar o principal,
 # escreva o nome dele no topo da lista.
 
+roxxwar/instagram-3
+roxxwar/instagram-2
 roxxwar/instagram2
 roxxwar/instagram-profissional
